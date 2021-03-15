@@ -6,7 +6,7 @@ Geliştirilen proje; kullanıcının kağıda el yazısı ile yazmış olduğu r
 
 
 
-![cover](cover.png)
+![cover](image.jpg)
 
 
 
